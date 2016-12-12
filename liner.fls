@@ -1,7 +1,7 @@
 PWD G:/Administrator/Documents/作业/数理统计/statisticanalyze
 INPUT C:/Users/wang xj/AppData/Local/MiKTeX/2.9/miktex/data/le/xetex/xelatex.fmt
-INPUT test.tex
-OUTPUT test.log
+INPUT liner.tex
+OUTPUT liner.log
 INPUT D:/Program Files/MiKTeX 2.9/tex/latex/base/article.cls
 INPUT D:/Program Files/MiKTeX 2.9/tex/latex/base/article.cls
 INPUT D:/Program Files/MiKTeX 2.9/tex/latex/base/size10.clo
@@ -137,15 +137,9 @@ INPUT D:/Program Files/MiKTeX 2.9/tex/xelatex/xetexconfig/geometry.cfg
 INPUT D:/Program Files/MiKTeX 2.9/tex/xelatex/xetexconfig/geometry.cfg
 INPUT D:/Program Files/MiKTeX 2.9/tex/latex/multirow/multirow.sty
 INPUT D:/Program Files/MiKTeX 2.9/tex/latex/multirow/multirow.sty
-INPUT D:/Program Files/MiKTeX 2.9/tex/latex/tabu/tabu.sty
-INPUT D:/Program Files/MiKTeX 2.9/tex/latex/tabu/tabu.sty
-INPUT D:/Program Files/MiKTeX 2.9/tex/latex/tools/array.sty
-INPUT D:/Program Files/MiKTeX 2.9/tex/latex/tools/array.sty
-INPUT D:/Program Files/MiKTeX 2.9/tex/latex/ltxmisc/varwidth.sty
-INPUT D:/Program Files/MiKTeX 2.9/tex/latex/ltxmisc/varwidth.sty
-INPUT test.aux
-INPUT test.aux
-OUTPUT test.aux
+INPUT liner.aux
+INPUT liner.aux
+OUTPUT liner.aux
 INPUT D:/Program Files/MiKTeX 2.9/tex/latex/tipa/t3cmr.fd
 INPUT D:/Program Files/MiKTeX 2.9/tex/latex/tipa/t3cmr.fd
 INPUT D:/Program Files/MiKTeX 2.9/fonts/tfm/public/cm/cmmi12.tfm
@@ -188,4 +182,10 @@ INPUT D:/Program Files/MiKTeX 2.9/fonts/tfm/public/amsfonts/symbols/msam7.tfm
 INPUT D:/Program Files/MiKTeX 2.9/fonts/tfm/public/amsfonts/symbols/msbm10.tfm
 INPUT D:/Program Files/MiKTeX 2.9/fonts/tfm/public/amsfonts/symbols/msbm7.tfm
 INPUT D:/Program Files/MiKTeX 2.9/fonts/tfm/public/cm/cmr10.tfm
-INPUT test.aux
+INPUT D:/Program Files/MiKTeX 2.9/fonts/tfm/public/cm/cmmi5.tfm
+INPUT D:/Program Files/MiKTeX 2.9/fonts/tfm/public/cm/cmsy5.tfm
+INPUT D:/Program Files/MiKTeX 2.9/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm
+INPUT D:/Program Files/MiKTeX 2.9/fonts/tfm/public/amsfonts/symbols/msam5.tfm
+INPUT D:/Program Files/MiKTeX 2.9/fonts/tfm/public/amsfonts/symbols/msbm5.tfm
+INPUT D:/Program Files/MiKTeX 2.9/fonts/tfm/public/cm/cmr5.tfm
+INPUT liner.aux
